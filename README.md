@@ -32,11 +32,30 @@ MACHINE-LEARNING/
 │   ├── AirQualityUCI.xlsx
 │   └── Position_Salaries.csv
 │
-└── 5-Regularization-Techniques/
-    ├── 5-Lasso-&-Ridge-Regressions.ipynb
-    ├── 5B-Lithium_ion_Battery_Soh_Prediction_Linear_Ridge_Lasso.ipynb
-    ├── kc_house_data_NaN.csv
-    └── SoH Data with Temp.xlsx
+|── 5-Regularization-Techniques/
+|   ├── 5-Lasso-&-Ridge-Regressions.ipynb
+|   ├── 5B-Lithium_ion_Battery_Soh_Prediction_Linear_Ridge_Lasso.ipynb
+|   ├── kc_house_data_NaN.csv
+|   └── SoH Data with Temp.xlsx
+│
+|── 6-Logistic-Regression(Binomial-Classification)/
+|   ├── 6A-Logistic-Regression(Binomial)-Single-Input.ipynb
+|   ├── 6B-Logistic-Regression(Binomial)-Multiple-Inputs.ipynb
+|   ├── 6C-Water_Potability_Prediction_Logistic_Regression(Binomial).ipynb
+|   ├── placement-dataset.csv
+|   ├── Social_Network_Ads.csv
+|   └── water_potability.csv
+|
+|── 7-Logistic-Regression(Multinomial-Classification)/
+|   ├── 7-Logistic-Regression(Multi-Class).ipynb
+|   ├── 7B-Penguin_Species_Classification_Project.ipynb
+|   ├── iris.csv
+|   └── penguins.csv
+│
+└── 8-Imbalanced-Data-Handling-Techniques/
+    ├── Imbalanced-Data-Handling-Techniques.ipynb
+    └── Social_Network_Ads.csv
+
 ```
 
 ## 🛠️ Tech Stack
@@ -48,7 +67,7 @@ MACHINE-LEARNING/
 
 - **Data Visualization:** matplotlib, seaborn
 
-- **Machine Learning:** scikit-learn (train_test_split, LinearRegression, PolynomialFeatures, Ridge, Lasso, regression evaluation metrics)
+- **Machine Learning:** scikit-learn (train_test_split, LinearRegression, PolynomialFeatures, Ridge, Lasso, regression evaluation metrics, Logistic Regression, Imbalanced Data Handling Techniques, Confusion metrics, Classification Reports)
 
 ## 👨‍💻 Author & Connect
 ### Riaz Ud Din
