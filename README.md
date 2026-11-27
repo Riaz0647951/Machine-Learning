@@ -52,9 +52,15 @@ MACHINE-LEARNING/
 |   ├── iris.csv
 |   └── penguins.csv
 │
-└── 8-Imbalanced-Data-Handling-Techniques/
-    ├── Imbalanced-Data-Handling-Techniques.ipynb
-    └── Social_Network_Ads.csv
+|── 8-Imbalanced-Data-Handling-Techniques/
+|   ├── Imbalanced-Data-Handling-Techniques.ipynb
+|   └── Social_Network_Ads.csv
+|
+└── 9-Naive-Bayes-Algorithm/
+    ├── 9-Naive-Bayes.ipynb
+    ├── 9B-Dry-Bean-Classification.ipynb
+    ├── Dry_Bean_Dataset.xlsx
+    └── placement-dataset.csv
 
 ```
 
@@ -67,7 +73,7 @@ MACHINE-LEARNING/
 
 - **Data Visualization:** matplotlib, seaborn
 
-- **Machine Learning:** scikit-learn (train_test_split, LinearRegression, PolynomialFeatures, Ridge, Lasso, regression evaluation metrics, Logistic Regression, Imbalanced Data Handling Techniques, Confusion metrics, Classification Reports)
+- **Machine Learning:** scikit-learn (train_test_split, LinearRegression, PolynomialFeatures, Ridge, Lasso, regression evaluation metrics, Logistic Regression, Imbalanced Data Handling Techniques, Confusion matrix, Classification Reports, Classification metrics, Naive Bayes)
 
 ## 👨‍💻 Author & Connect
 ### Riaz Ud Din
